@@ -95,7 +95,7 @@
 
 | 子任务编号 | 特殊性质 | 分值 |
 |:-:|:-:|:-:|
-| Subtask #1 | $a_{i,j}=b_{i,j}$，或 $\sum b=0$ | $5$ |
+| Subtask #1 | $a_{i,j}=b_{i,j}$，或 $\sum \limits_{i=1}^n \sum \limits_{j=1}^m b_{i,j}=0$ | $5$ |
 | Subtask #2 | $\sum \limits_{i=1}^{t} a_{i,j} \ge \sum \limits_{i=1}^{t} b_{i,j}$ | $10$ |
 | Subtask #3 | $1 \le \sum \limits_{i=1}^n \sum \limits_{j=1}^m b_{i,j} \le 20$ | $20$ |
 | Subtask #4 | $n=1$ | $20$ |
