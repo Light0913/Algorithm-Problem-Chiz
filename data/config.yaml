@@ -1,0 +1,93 @@
+type: default
+time: 2000ms
+subtasks:
+- score: 5
+  if: []
+  id: 1
+  type: min
+  cases:
+  - input: chiz1.in
+    output: chiz1.out
+  - input: chiz2.in
+    output: chiz2.out
+  - input: chiz3.in
+    output: chiz3.out
+  - input: chiz4.in
+    output: chiz4.out
+  - input: chiz5.in
+    output: chiz5.out
+- score: 10
+  if: []
+  id: 2
+  type: min
+  cases:
+  - input: chiz6.in
+    output: chiz6.out
+  - input: chiz7.in
+    output: chiz7.out
+  - input: chiz8.in
+    output: chiz8.out
+  - input: chiz9.in
+    output: chiz9.out
+  - input: chiz10.in
+    output: chiz10.out
+- score: 20
+  if: []
+  id: 3
+  type: min
+  cases:
+  - input: chiz11.in
+    output: chiz11.out
+  - input: chiz12.in
+    output: chiz12.out
+  - input: chiz13.in
+    output: chiz13.out
+  - input: chiz14.in
+    output: chiz14.out
+  - input: chiz15.in
+    output: chiz15.out
+- score: 20
+  if: []
+  id: 4
+  type: min
+  cases:
+  - input: chiz16.in
+    output: chiz16.out
+  - input: chiz17.in
+    output: chiz17.out
+  - input: chiz18.in
+    output: chiz18.out
+  - input: chiz19.in
+    output: chiz19.out
+  - input: chiz20.in
+    output: chiz20.out
+- score: 20
+  if: []
+  id: 5
+  type: min
+  cases:
+  - input: chiz21.in
+    output: chiz21.out
+  - input: chiz22.in
+    output: chiz22.out
+  - input: chiz23.in
+    output: chiz23.out
+  - input: chiz24.in
+    output: chiz24.out
+  - input: chiz25.in
+    output: chiz25.out
+- score: 25
+  if: []
+  id: 6
+  type: min
+  cases:
+  - input: chiz26.in
+    output: chiz26.out
+  - input: chiz27.in
+    output: chiz27.out
+  - input: chiz28.in
+    output: chiz28.out
+  - input: chiz29.in
+    output: chiz29.out
+  - input: chiz30.in
+    output: chiz30.out
